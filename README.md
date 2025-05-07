@@ -127,7 +127,6 @@ Dataset contains valuable information that could help us optimize our operations
 
 
 
-![1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
 
 
 
